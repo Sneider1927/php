@@ -1,1 +1,1 @@
-<h1>Salir de la aplicacion</h1>
+<h1>Saliendo de la aplicación</h1>
